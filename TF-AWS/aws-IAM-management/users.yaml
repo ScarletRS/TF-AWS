@@ -1,0 +1,8 @@
+users:
+  - username: scarlet
+    roles: [admin]
+  - username: scarly
+    roles: [readonly]
+  - username: scu
+    roles: [ec2allaccess]
+ 
